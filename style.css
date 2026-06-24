@@ -1,0 +1,29 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.card {
+  border-radius: 12px;
+}
+
+.btn-warning {
+  background: #ff9800;
+  border: none;
+  color: white;
+}
+
+.btn-warning:hover {
+  background: #fb8c00;
+}
+.card img {
+  max-height: 160px;
+  object-fit: contain;
+}
+
+.card h4 {
+  font-weight: bold;
+}
+.badge {
+  font-size: 14px;
+  padding: 8px;
+}
